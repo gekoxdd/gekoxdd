@@ -1,4 +1,4 @@
-<h1 align="center">Buenas tardes, soy Geko ☕</h1>
+<h1 align="center">Buenas, soy Geko ☕</h1>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gekoxdd&color=blue"/> 
 </p>
@@ -15,7 +15,7 @@
 - 📖 **16** Años
 
 
-<h3 align="left">Contactame: https://discord.gg/TedscjnD7e</h3>
+<h3 align="left">Contactame: https://discord.gg/nbEHk8eNWC</h3>
 <p align="left">
 
 
